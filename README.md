@@ -1,1 +1,1 @@
-# Coffe quality classifier
+# Coffee quality classifier
